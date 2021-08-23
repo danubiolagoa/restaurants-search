@@ -12,7 +12,7 @@ function App() {
       <Reset />
       <Home />
     </ThemeProvider>
-  )
+  );
 }
 
 export default App;
